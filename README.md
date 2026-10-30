@@ -69,7 +69,8 @@ To request source code for a SoyMomo device or firmware version not listed
 here, or to report a problem with what is published, write to
 **opensource@soymomo.com** with the device name and firmware version.
 
-To report a security issue, see [SECURITY.md](SECURITY.md).
+To report a security issue, see [SECURITY.md](SECURITY.md). For common
+questions, see the [FAQ](docs/FAQ.md).
 
 ## Status history
 
