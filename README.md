@@ -76,6 +76,7 @@ questions, see the [FAQ](docs/FAQ.md).
 
 | Date | Change |
 |---|---|
+| 2026-11-09 | Vulnerability disclosure policy published in [SECURITY.md](SECURITY.md) |
 | 2026-10-30 | Estimated publication date; scope extended to all SoyMomo devices; FAQ and security contact added |
 | 2026-10-29 | Repository created with SoyMomo Space 3.0/4.0 and Space 1.0/2.0 |
 
